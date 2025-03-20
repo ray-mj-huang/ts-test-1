@@ -1,4 +1,4 @@
-# Claire CMS
+# TS-TEST-1
 
 A simple Content Management System built with React, TypeScript, Redux Toolkit, and Tailwind CSS.
 
@@ -20,7 +20,7 @@ A simple Content Management System built with React, TypeScript, Redux Toolkit, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/claire-cms.git
+git clone https://github.com/ray-mj-huang/ts-test-1.git
 cd claire-cms
 ```
 
